@@ -16,5 +16,4 @@ class BowlingGameTest {
 
         assertEquals(expected, actualScore);
     }
-
 }
